@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Lying"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Proident tempor laborum enim anim ea esse incididunt occaecat velit occaecat pariatur minim sit. Id ut adipisicing veniam magna exercitation et. Irure ex enim nulla."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
